@@ -48,7 +48,6 @@ const Features = () => {
 type FeatureItem = {
   title:string;
   icon:string;
-  variant?:string;
   description:string;
 }
 
